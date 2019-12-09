@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myapp/serverless-stack-client/static/css/main.4c48e7e1.chunk.css",
+    "main.js": "/myapp/serverless-stack-client/static/js/main.3eaa54bb.chunk.js",
+    "main.js.map": "/myapp/serverless-stack-client/static/js/main.3eaa54bb.chunk.js.map",
+    "runtime-main.js": "/myapp/serverless-stack-client/static/js/runtime-main.2dc1220d.js",
+    "runtime-main.js.map": "/myapp/serverless-stack-client/static/js/runtime-main.2dc1220d.js.map",
+    "static/js/2.caa4ebb3.chunk.js": "/myapp/serverless-stack-client/static/js/2.caa4ebb3.chunk.js",
+    "static/js/2.caa4ebb3.chunk.js.map": "/myapp/serverless-stack-client/static/js/2.caa4ebb3.chunk.js.map",
+    "index.html": "/myapp/serverless-stack-client/index.html",
+    "precache-manifest.8cb693a8a59d06656673ea88a8be6ef0.js": "/myapp/serverless-stack-client/precache-manifest.8cb693a8a59d06656673ea88a8be6ef0.js",
+    "service-worker.js": "/myapp/serverless-stack-client/service-worker.js",
+    "static/css/main.4c48e7e1.chunk.css.map": "/myapp/serverless-stack-client/static/css/main.4c48e7e1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc1220d.js",
+    "static/js/2.caa4ebb3.chunk.js",
+    "static/css/main.4c48e7e1.chunk.css",
+    "static/js/main.3eaa54bb.chunk.js"
+  ]
+}
