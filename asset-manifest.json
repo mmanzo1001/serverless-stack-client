@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/serverless-stack-client/static/css/main.4c48e7e1.chunk.css",
-    "main.js": "/serverless-stack-client/static/js/main.c542b37c.chunk.js",
-    "main.js.map": "/serverless-stack-client/static/js/main.c542b37c.chunk.js.map",
+    "main.js": "/serverless-stack-client/static/js/main.e91fd6cf.chunk.js",
+    "main.js.map": "/serverless-stack-client/static/js/main.e91fd6cf.chunk.js.map",
     "runtime-main.js": "/serverless-stack-client/static/js/runtime-main.4927898e.js",
     "runtime-main.js.map": "/serverless-stack-client/static/js/runtime-main.4927898e.js.map",
     "static/js/2.2374d2be.chunk.js": "/serverless-stack-client/static/js/2.2374d2be.chunk.js",
     "static/js/2.2374d2be.chunk.js.map": "/serverless-stack-client/static/js/2.2374d2be.chunk.js.map",
     "index.html": "/serverless-stack-client/index.html",
-    "precache-manifest.299e9f6df6acacea02f2c4d4f6214f11.js": "/serverless-stack-client/precache-manifest.299e9f6df6acacea02f2c4d4f6214f11.js",
+    "precache-manifest.a66d4be724ff370a69992a63869644dc.js": "/serverless-stack-client/precache-manifest.a66d4be724ff370a69992a63869644dc.js",
     "service-worker.js": "/serverless-stack-client/service-worker.js",
     "static/css/main.4c48e7e1.chunk.css.map": "/serverless-stack-client/static/css/main.4c48e7e1.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4927898e.js",
     "static/js/2.2374d2be.chunk.js",
     "static/css/main.4c48e7e1.chunk.css",
-    "static/js/main.c542b37c.chunk.js"
+    "static/js/main.e91fd6cf.chunk.js"
   ]
 }
